@@ -1,0 +1,7 @@
+                        Test Results
+
+        DFT                 DLS                 ADFT        
+
+                  Comprehensive benefit
+
+       28.067951          11.630013          3.006552    

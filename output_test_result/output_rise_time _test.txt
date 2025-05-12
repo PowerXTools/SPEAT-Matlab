@@ -1,0 +1,7 @@
+                        Test Results
+
+        IDFT                DFT                 ADFT        
+
+                  Rise time(ms)
+
+       7.500000           5.937500           8.125000    

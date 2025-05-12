@@ -1,0 +1,7 @@
+                        Test Results
+
+        IDFT                DFT                 ADFT        
+
+                  Response time(ms)
+
+       19.687500          61.250000          20.312500   

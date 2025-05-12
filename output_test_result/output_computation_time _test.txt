@@ -1,0 +1,7 @@
+                        Test Results
+
+        IDFT                DFT                 ADFT        
+
+                  Computation time(ms)
+
+       7.334727           2.530703           6.659167    

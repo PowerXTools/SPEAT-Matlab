@@ -1,6 +1,6 @@
                         Test Results
 
-        DFT                 DLS                 ADFT        
+        IDFT                DFT                 ADFT        
 
                   Comprehensive benefit
 
